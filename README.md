@@ -104,4 +104,4 @@ Below are examples of augementation steps carried out on the center, left and ri
 
 I used an Adam optimizer and mean squared error metric as the loss function. Although the model was trained for 2 epochs, it performed very well and autonomously drove around the first track without skidding off the road.
 
-Attached is a video ![alt text](https://youtu.be/pqeIWHmC8-M "Youtube video") of the car driving autonomously without leaving the road.
+Attached is a [Link to youtube video](https://youtu.be/pqeIWHmC8-M) of the car driving autonomously without leaving the road.
