@@ -17,7 +17,7 @@ The goals / steps of this project are the following:
 
 
 <!-- [//]: # (Image References)
-
+center,left,right,steering,throttle,brake,speed
 [image1]: ./examples/placeholder.png "Model Visualization"
 [image2]: ./examples/placeholder.png "Grayscaling"
 [image3]: ./examples/placeholder_small.png "Recovery Image"
@@ -94,11 +94,11 @@ The final model architecture `(model.py lines 56-62)` consisted of data preproce
 
 Here are examples of the original left, center and right camera images further processed:
 
-<img src="rpt_imgs/left_original.png" width="250" /> <img src="rpt_imgs/center_original.png" width="250" /> <img src="rpt_imgs/right_original.png" width="250" align="right" />
+<img src="rpt_imgs/left_original.png" width="250" /> <img src="rpt_imgs/center_original.png" width="250" /> <img src="rpt_imgs/right_original.png" width="250" />
 
 Below are examples of augementation steps carried out on the center, left and right camera images such as cropping and resizing image to `(32,32,3)`:
 
-<img src="rpt_imgs/left_crp_resized.png" width="200" /> <img src="rpt_imgs/center_crp_resized.png" width="200" /> <img src="rpt_imgs/right_crp_resized.png" width="200" align="right" />
+<img src="rpt_imgs/left_crp_resized.png" width="200" /> <img src="rpt_imgs/center_crp_resized.png" width="200" /> <img src="rpt_imgs/right_crp_resized.png" width="200" />
 
 
 
